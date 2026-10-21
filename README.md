@@ -1,4 +1,4 @@
-# Last-Mile Fleet Operations & Asset Tracking Suite • Box Truck Logistics & Delivery Framework
+# Box Truck Logistics & Last Mile Freight Excel Spreadsheet (No Subscriptions)
 
 Corporate Operations Back-Office Dashboard & Standalone Management Engine
 
@@ -9,7 +9,7 @@ Corporate Operations Back-Office Dashboard & Standalone Management Engine
 ### 🔑 SECURE ENTERPRISE PROCURE CONDUIT
 Bypass bloated monthly software licensing fees instantly. Secure your permanent, offline dark-mode corporate Excel operating workbook below:
 
-### [👉 PROCURE THE EXCEL OPERATION ENGINE NOW ($149.00)](https://rentalengine.gumroad.com)
+### [👉 PROCURE THE EXCEL OPERATION ENGINE NOW ($149.00)](https://rentalengine.gumroad.com/l/amsilm)
 
 *⚡ One-Time Corporate License. Permanent Local Ownership. Instant Vault Delivery.*
 
