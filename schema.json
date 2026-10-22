@@ -1,0 +1,14 @@
+{
+  "asset_class": "Box Truck Last Mile Freight OS",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "last_mile_route_logs",
+    "delivery_manifest_trackers",
+    "fuel_factor_calculations",
+    "dispatcher_assignment_grids"
+  ]
+}
